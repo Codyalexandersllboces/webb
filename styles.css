@@ -1,0 +1,95 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+}
+
+header{
+    height: 300px;
+    background-image: url("../images/jamesWebbIdentifier.png")
+}
+
+header h1 {
+    text-align: center;
+    font-size: 4em;
+    padding: 5% 0% 0% 0%
+}
+
+body{
+}
+
+#content {
+    height: 500px;
+}
+
+.hnav{
+    background-color: #1F1F1F;
+    min-height: 50px;
+    text-align: center;
+}
+
+.hnav ul {
+    display: block;
+    padding-top: .5em;
+    margin: 0;
+}
+
+.hnav ul li {
+    display: inline-block;
+    list-style-type: none;
+    width: 12%;
+    padding: 2%;
+}
+
+.hnav a {
+    text-decoration: none;
+    color: #D43F41;
+    font-size: 1.5em;
+}
+
+.hnav a:hover{
+    background-color: #FFDF00;
+    color: #000000;
+}
+
+
+
+
+
+.fnav{
+    background-color: #1F1F1F;
+    min-height: 50px;
+    text-align: center;
+}
+
+.fnav ul {
+    display: block;
+    padding-top: .5em;
+    margin: 0;
+}
+
+.fnav ul li {
+    display: inline-block;
+    list-style-type: none;
+    width: 12%;
+    padding: 2%;
+}
+
+.fnav a {
+    text-decoration: none;
+    color: #D43F41;
+    font-size: 1.5em;
+}
+
+.fnav a:hover{
+    background-color: #FFDF00;
+    color: #000000;
+}
+
+footer{
+    text-align: center;
+    background-color: #333333;
+    color: white;
+    
+}
+
